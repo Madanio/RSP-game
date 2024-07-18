@@ -1,0 +1,103 @@
+
+[
+  {
+    "nom": "Alice Dupont",
+    "role": "Super admin",
+    "position": "Responsable RH",
+    "equipe": "Équipe RH",
+    "codeSupport": "A12345",
+    "statut": "Actif",
+    "derniereConnexion": "15 Jul. 2024",
+    "permissions": "Opérationnel"
+  },
+  {
+    "nom": "Jean Martin",
+    "role": "Utilisateur",
+    "position": "Développeur",
+    "equipe": "Équipe Dev",
+    "codeSupport": "B23456",
+    "statut": "Actif",
+    "derniereConnexion": "10 Jul. 2024",
+    "permissions": "Opérationnel"
+  },
+  {
+    "nom": "Sophie Dubois",
+    "role": "Manager",
+    "position": "Chef de projet",
+    "equipe": "Équipe Projet",
+    "codeSupport": "C34567",
+    "statut": "Actif",
+    "derniereConnexion": "12 Jul. 2024",
+    "permissions": "Opérationnel"
+  },
+  {
+    "nom": "Marc Lefevre",
+    "role": "Utilisateur",
+    "position": "Analyste de données",
+    "equipe": "Équipe Analyse",
+    "codeSupport": "D45678",
+    "statut": "Actif",
+    "derniereConnexion": "18 Jul. 2024",
+    "permissions": "Opérationnel"
+  },
+  {
+    "nom": "Clara Moreau",
+    "role": "Administrateur",
+    "position": "Responsable IT",
+    "equipe": "Équipe IT",
+    "codeSupport": "E56789",
+    "statut": "Actif",
+    "derniereConnexion": "14 Jul. 2024",
+    "permissions": "Opérationnel"
+  },
+  {
+    "nom": "Lucas Perrin",
+    "role": "Utilisateur",
+    "position": "Support technique",
+    "equipe": "Équipe Support",
+    "codeSupport": "F67890",
+    "statut": "Inactif",
+    "derniereConnexion": "20 Jun. 2024",
+    "permissions": "Lecture"
+  },
+  {
+    "nom": "Emma Lefèvre",
+    "role": "Super admin",
+    "position": "Directrice",
+    "equipe": "Direction",
+    "codeSupport": "G78901",
+    "statut": "Actif",
+    "derniereConnexion": "22 Jul. 2024",
+    "permissions": "Opérationnel"
+  },
+  {
+    "nom": "Léo Fournier",
+    "role": "Utilisateur",
+    "position": "Marketing",
+    "equipe": "Équipe Marketing",
+    "codeSupport": "H89012",
+    "statut": "Actif",
+    "derniereConnexion": "16 Jul. 2024",
+    "permissions": "Opérationnel"
+  },
+  {
+    "nom": "Laura Lefebvre",
+    "role": "Manager",
+    "position": "Responsable commercial",
+    "equipe": "Équipe Commerciale",
+    "codeSupport": "I90123",
+    "statut": "Actif",
+    "derniereConnexion": "11 Jul. 2024",
+    "permissions": "Opérationnel"
+  },
+  {
+    "nom": "Nathan Roux",
+    "role": "Utilisateur",
+    "position": "Designer",
+    "equipe": "Équipe Design",
+    "codeSupport": "J01234",
+    "statut": "Actif",
+    "derniereConnexion": "19 Jul. 2024",
+    "permissions": "Opérationnel"
+  }
+]
